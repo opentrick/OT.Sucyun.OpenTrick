@@ -22,6 +22,8 @@
         <module>opentrick-service</module>
         <module>opentrick-auth</module>
         <module>opentrick-generator</module>
+        <module>opentrick-test</module>
+        <module>opentrick-test</module>
     </modules>
 
     <properties>
